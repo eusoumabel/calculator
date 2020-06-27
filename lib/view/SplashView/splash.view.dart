@@ -17,7 +17,7 @@ class _SplashViewState extends State<SplashView> {
   void initState() {
     super.initState();
     Future.delayed(
-      Duration(seconds: 3),
+      Duration(seconds: 5),
       () {
         Navigator.of(context).pushReplacement(
           MaterialPageRoute(
@@ -33,7 +33,10 @@ class _SplashViewState extends State<SplashView> {
     return Scaffold(
       backgroundColor: sps.backgroungColor,
       body: Stack(
-        children: [Image.asset('assets/images/background.png')],
+        children: [
+          sps.background(),
+          
+        ],
       ),
     );
   }
