@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
 
 class SplashViewStyles {
-  var a;
+  Color backgroungColor = Color.fromRGBO(87, 161, 165, 1);
 }

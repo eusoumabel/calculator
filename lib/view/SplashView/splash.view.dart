@@ -31,8 +31,10 @@ class _SplashViewState extends State<SplashView> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromRGBO(87, 161, 165, 1),
-      body: Container(),
+      backgroundColor: sps.backgroungColor,
+      body: Stack(
+        children: [Image.asset('assets/images/background.png')],
+      ),
     );
   }
 }
