@@ -10,4 +10,4 @@
 
 2. HomeScreen
 
-![HomeScreenApp](https://user-images.githubusercontent.com/51540772/85919374-f9684780-b840-11ea-9ce3-587d98e13166.png)
+![85919374-f9684780-b840-11ea-9ce3-587d98e13166_Easy-Resize com](https://user-images.githubusercontent.com/51540772/85919724-63ceb700-b844-11ea-9ef9-7e0301a56686.jpg)
