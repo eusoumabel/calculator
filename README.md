@@ -6,7 +6,7 @@
 
 1. SplashScreen
 
-![SplashScreenApp](https://user-images.githubusercontent.com/51540772/85919356-d2aa1100-b840-11ea-9262-06207dbe852f.png)
+![85919356-d2aa1100-b840-11ea-9262-06207dbe852f_Easy-Resize com](https://user-images.githubusercontent.com/51540772/85919715-4f8aba00-b844-11ea-8f21-3092988c1462.jpg)
 
 2. HomeScreen
 
