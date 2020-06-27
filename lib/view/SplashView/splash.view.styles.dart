@@ -7,7 +7,22 @@ class SplashViewStyles {
     String image = 'assets/images/background.png';
     return Container(
       decoration: BoxDecoration(
-        image: DecorationImage(image: AssetImage(image), fit: BoxFit.cover),
+        image: DecorationImage(
+          image: AssetImage(image),
+          fit: BoxFit.cover,
+        ),
+      ),
+    );
+  }
+
+  Container logo() {
+    String image = 'assets/images/name.png';
+    return Container(
+      decoration: BoxDecoration(
+        image: DecorationImage(
+          image: AssetImage(image),
+          alignment: Alignment.center,
+        ),
       ),
     );
   }

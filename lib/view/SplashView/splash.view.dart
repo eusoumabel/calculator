@@ -1,3 +1,4 @@
+import 'package:calculator_final/animations/fadeAnimation.dart';
 import 'package:calculator_final/view/HomeView/home.view.dart';
 import 'package:calculator_final/view/SplashView/splash.view.styles.dart';
 import 'package:flutter/material.dart';
@@ -17,7 +18,7 @@ class _SplashViewState extends State<SplashView> {
   void initState() {
     super.initState();
     Future.delayed(
-      Duration(seconds: 5),
+      Duration(seconds: 4),
       () {
         Navigator.of(context).pushReplacement(
           MaterialPageRoute(
@@ -35,7 +36,7 @@ class _SplashViewState extends State<SplashView> {
       body: Stack(
         children: [
           sps.background(),
-          
+          FadeAnimation(0.70, sps.logo()),
         ],
       ),
     );
