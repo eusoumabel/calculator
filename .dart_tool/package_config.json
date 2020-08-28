@@ -3,171 +3,177 @@
   "packages": [
     {
       "name": "async",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/async-2.4.1",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.4.2",
       "packageUri": "lib/",
       "languageVersion": "2.2"
     },
     {
       "name": "boolean_selector",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.0.0",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.4"
     },
     {
+      "name": "characters",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0-nullsafety",
+      "packageUri": "lib/",
+      "languageVersion": "2.9"
+    },
+    {
       "name": "charcode",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.3",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "clock",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/clock-1.0.1",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/clock-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/collection-1.14.12",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0-nullsafety",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.9"
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.3",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "fake_async",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/fake_async-1.1.0",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.2"
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/estermabel/Developer/flutter/packages/flutter",
+      "rootUri": "file:///C:/development/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.9"
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/estermabel/Developer/flutter/packages/flutter_test",
+      "rootUri": "file:///C:/development/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.2"
     },
     {
       "name": "matcher",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.6",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.9",
       "packageUri": "lib/",
-      "languageVersion": "2.2"
+      "languageVersion": "2.7"
     },
     {
       "name": "math_expressions",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/math_expressions-2.0.0",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/math_expressions-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.1"
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0-nullsafety",
       "packageUri": "lib/",
-      "languageVersion": "1.12"
+      "languageVersion": "2.9"
     },
     {
       "name": "path",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/path-1.7.0",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "sa_anicoto",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/sa_anicoto-1.0.2",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/sa_anicoto-1.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
     {
       "name": "sa_multi_tween",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/sa_multi_tween-1.1.1",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/sa_multi_tween-1.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
     {
       "name": "sa_stateless_animation",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/sa_stateless_animation-1.0.1",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/sa_stateless_animation-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
     {
       "name": "sa_v1_migration",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/sa_v1_migration-1.1.2",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/sa_v1_migration-1.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.3"
     },
     {
       "name": "simple_animations",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/simple_animations-2.2.1",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/simple_animations-2.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/estermabel/Developer/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///C:/development/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "1.11"
     },
     {
       "name": "source_span",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/source_span-1.7.0",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.6"
     },
     {
       "name": "stack_trace",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.5",
       "packageUri": "lib/",
-      "languageVersion": "1.23"
+      "languageVersion": "2.0"
     },
     {
       "name": "stream_channel",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.0.0",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.5",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "supercharged",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/supercharged-1.6.0",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/supercharged-1.6.0",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
     {
       "name": "term_glyph",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "1.8"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/test_api-0.2.15",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.2.18",
       "packageUri": "lib/",
-      "languageVersion": "2.4"
+      "languageVersion": "2.7"
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0-nullsafety",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.9"
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///Users/estermabel/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8",
+      "rootUri": "file:///C:/development/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.0-nullsafety",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.9"
     },
     {
       "name": "calculator_final",
@@ -176,7 +182,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-06-27T09:17:11.489148Z",
+  "generated": "2020-08-28T14:24:29.583442Z",
   "generator": "pub",
-  "generatorVersion": "2.9.0-11.0.dev.flutter-253022eb1b"
+  "generatorVersion": "2.9.0-21.0.dev.flutter-a3815b6590"
 }

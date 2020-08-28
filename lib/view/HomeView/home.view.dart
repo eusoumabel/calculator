@@ -1,9 +1,12 @@
 import 'package:calculator_final/Widgets/button.dart';
+import 'package:calculator_final/view/HistoricoView/historico.view.dart';
 import 'package:calculator_final/view/HomeView/home.view.styles.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:math_expressions/math_expressions.dart';
 
 HomeViewStyles hvs = new HomeViewStyles();
+List<String> operacoes = new List<String>();
 
 class HomeView extends StatefulWidget {
   @override
@@ -33,7 +36,7 @@ class _HomeViewState extends State<HomeView> {
     "+",
     "0",
     ",",
-    "ANS",
+    "HIS",
     "="
   ];
 
@@ -130,9 +133,11 @@ class _HomeViewState extends State<HomeView> {
                   else if (index == 18) {
                     return Button(
                       buttonTapped: () {
-                        setState(() {
-                          equalPressed();
-                        });
+                        Navigator.push(
+                            context,
+                            CupertinoPageRoute(
+                                builder: (_) =>
+                                    HistoricoView()));
                       },
                       buttonText: buttons[index],
                       color: Color.fromRGBO(51, 128, 132, 1),
@@ -148,6 +153,7 @@ class _HomeViewState extends State<HomeView> {
                       buttonTapped: () {
                         setState(() {
                           equalPressed();
+                          operacoes.add(userQuestion + ' = ' + userAnswer);
                         });
                       },
                       buttonText: buttons[index],
